@@ -1,0 +1,77 @@
+charset,UTF-8
+
+//——— Basic information ———
+name,Forged Metal Calendar
+type,calendar skin
+craftman,
+craftmanw,
+craftmanurl,
+
+//——— Table ———
+table.left,25
+table.top,115
+table.right,305
+table.bottom,415
+
+
+//——— Numbers ———
+day.pos.x,4
+day.pos.y,7
+
+day.spacing,0
+saturday.spacing,0
+holiday.spacing,0
+
+year.pos.x,137
+year.pos.y,57
+
+year.spacing,0
+
+
+//——— Day markers ———
+today.pos.x,32
+today.pos.y,-2
+
+current.pos.x,0
+current.pos.y,0
+
+
+//——— Event markers ———
+icon.left,3
+icon.top,27
+icon.right,36
+icon.bottom,61
+
+icon.width,6
+icon.height,7
+
+
+//——— Month names ———
+month.pos.x,24
+month.pos.y,2
+
+
+//——— Next & previous month buttons ———
+prev.left,25
+prev.top,48
+prev.right,107
+prev.bottom,90
+
+next.left,223
+next.top,48
+next.right,305
+next.bottom,90
+
+
+//——— Filenames ———
+day.filename,numbers/num
+saturday.filename,numbers/num
+holiday.filename,numbers/num
+
+year.filename,numbers/num
+month.filename,months/month
+
+today.filename,today
+current.filename,current
+
+background.filename,bg
