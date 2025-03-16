@@ -3,9 +3,10 @@ charset,UTF-8
 //——— Basic information ———
 name,Forged Metal Calendar
 type,calendar skin
-craftman,
-craftmanw,
-craftmanurl,
+craftman,Galla
+craftmanw,Galla
+craftmanurl,https://GallaTheGalla.github.io/gtg-ghosts/
+homeurl,https://raw.githubusercontent.com/GallaTheGalla/forged_metal_calendar/main/
 
 //——— Table ———
 table.left,25
